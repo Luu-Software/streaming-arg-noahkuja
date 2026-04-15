@@ -40,3 +40,10 @@ footer {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+body{
+  background-color:  #030026;
+  background-image: url("img/Fondo.png");
+}
+h1 {
+  font-family: "Poppins", sans-serif;
+}
